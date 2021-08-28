@@ -52,5 +52,6 @@ struct statfs diskInfo;
 		size_t mbFreedisk = freeDisk>>20;
 		printf ("total=%dGB, free=%dGB\n", mbTotalsize/1024, mbFreedisk/1024);
 
-//getHardDiskInfo();
+//;
+//sjkd
 }
